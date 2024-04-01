@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace EX1
+namespace QuickSort
 {
     internal class Program
     {
